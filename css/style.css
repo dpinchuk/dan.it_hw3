@@ -1,6 +1,6 @@
 body {
   font-family: Verdana, sans-serif;
-  background: url("../img/background.png") no-repeat center;
+  /*background: url("../img/background.png") no-repeat center;*/
   max-width: 100%;
 }
 
@@ -77,7 +77,7 @@ body {
 }
 
 .tours-item img {
-  max-width: 100%;
+  max-width: 98%;
 }
 
 .tours-name {
@@ -91,11 +91,11 @@ body {
 }
 
 .tours-property {
-  opacity: 0;
+  opacity: 1;
   padding-top: 15px;
   padding-bottom: 10px;
   width: 98%;
-  margin-left: 1%;
+  margin-left: 3px;
   background-color: #f26522;
   position: absolute;
   /*bottom: 90px;*/
