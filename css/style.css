@@ -161,15 +161,16 @@ body {
   padding-top: 5px;
 }
 
-.footer-copyright {
+.footer-page {
   margin-bottom: 20px;
 }
 
-.footer-copyright__text {
-  text-align: center;
+.footer-page__copyright {
   color:  #ffffff;
   font-size: 12px;
   font-weight: 400;
+  text-align: center;
+
 }
 
 .clearfix::after {
